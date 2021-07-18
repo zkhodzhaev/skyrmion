@@ -14,4 +14,4 @@ Mz seems a plausable. Now, let's define boundary where will consider the Skyrmio
 
 More detailed script is in jupyter notebook, and also you can try a sample code with a colab, following the link:
 
-[Main script (jupyter notebook)](https://github.com/zkhodzhaev/skyrmion/blob/886340b5997b9f5eb57213c183bc3de0808fe536/circle_object_count.ipynb)
+[Main script (jupyter notebook: circle_object_count.ipynb)](https://github.com/zkhodzhaev/skyrmion/blob/886340b5997b9f5eb57213c183bc3de0808fe536/circle_object_count.ipynb)
