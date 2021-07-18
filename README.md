@@ -18,6 +18,6 @@ Mz seems a plausable. Now, let's define boundary where will consider the Skyrmio
 
 <img src="https://user-images.githubusercontent.com/21960382/126056090-bf2a3e9b-046b-4681-8c6b-7556902051ef.png" width="380" height="400"/>
 
-More detailed script is in jupyter notebook, and also you can try a sample code with a colab, following the link. If you want to try yourself, there are files named "input" that can feed into teh script:
+More detailed script is in jupyter notebook, and also you can try a sample code with a colab, following the link. If you want to try yourself, there are files named "input" that can feed into the script:
 
 [Main script (jupyter notebook): circle_object_count.ipynb](https://github.com/zkhodzhaev/skyrmion/blob/886340b5997b9f5eb57213c183bc3de0808fe536/circle_object_count.ipynb)
